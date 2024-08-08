@@ -1,2 +1,9 @@
-# Google App Engine generated folder
-appengine-generated/
+node_modules
+package-lock.json
+lib/Session
+lib/bot_.json
+lib/sck1.json
+lib/sck.json
+lib/store.json
+lib/sck1.json
+ 
