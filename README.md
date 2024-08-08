@@ -1,5 +1,5 @@
 # Dreaded_Savage💀😈
-# QUEEN_ANITA-V2
+🌍👨‍💻😈👻🔥🌚
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://telegra.ph/file/880fbc3c4010707795329.jpg'/></a>
 <p align="center">
 <p align="center">
@@ -9,7 +9,7 @@
 <img src="https://telegra.ph/file/fef4a57f4a03227f102b6.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{996savage}/count.svg" alt="996savage :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/996savage/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
+<a href="https://github.com/996savage/followers"><img title="Followers" src="https://img.shields.io/github/followers/996savage?color=red&style=flat-square"></a>
 <a href="https://github.com/996savage/Dreaded_Savage/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/996savage/Dreaded_Savage?color=blue&style=flat-square"></a>
 <a href="https://github.com/996savage/Dreaded_Savage/network/members"><img title="Forks" src="https://img.shields.io/github/forks/996savage/Dreaded_Savage?color=red&style=flat-square"></a>
 <a href="https://github.com/996savage/Dreaded_Davage/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/996savage/Dreaded_Savage?label=Watchers&color=blue&style=flat-square"></a>
