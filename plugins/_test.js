@@ -20,5 +20,5 @@ smd({
     category: "bugTest",
     filename: __filename
 }, async(taira) => {
-  await taira.sendMessage(taira.chat, { text: `┃➢ Queen_Anita-V2 ` }, { quoted: statrp})
+  await taira.sendMessage(taira.chat, { text: `┃➢ Dreaded_Savage` }, { quoted: statrp})
 }) 
