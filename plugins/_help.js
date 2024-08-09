@@ -30,11 +30,11 @@ smd(
 ➮ʀᴜɴᴛɪᴍᴇ - ${runtime(process.uptime())} 
 ➮ᴅᴀᴛᴇ - ${message.date} 
 ➮ɴᴏᴡ ᴛɪᴍᴇ - ${message.time} 
-➮Fᴏᴜɴᴅᴇʀ- *David Cyril*
+➮Fᴏᴜɴᴅᴇʀ- *liljay savage*
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *QUEEN_ANITA-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
+      \n *DREADED_SAVAGE SIMPLE WHATSAPP BOT*\n\n ${readmore} 
 ╭──❰ *ALL MENU* ❱ 
 │🎗 Lɪꜱᴛ 
 │🎗 Cᴀᴛᴇɢᴏʀʏ 
@@ -193,7 +193,7 @@ astro_patch.smd(
   },
   async (message) => {
     var startTime = new Date().getTime();
-    const { key } = await message.reply("*Queen_Anita-V2 Ping!!!*");
+    const { key } = await message.reply("*DREADED_SAVAGE testin Ping!!!*");
     var endTime = new Date().getTime();
     return await message.send(
       `*Pong*\n *${endTime - startTime} ms*`,
@@ -232,7 +232,7 @@ astro_patch.cmd(
     pattern: "list",
     desc: "list menu",
     category: "user",
-    react: "🥀",
+    react: "👻",
   },
   async (message) => {
     try {
