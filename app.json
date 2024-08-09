@@ -1,15 +1,15 @@
 {
-    "name": "Queen_Anita-V2",
+    "name": "Dreaded_Savage",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "keywords": ["996savage", "Savage", "Dreaded_Savage"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "Dreaded_Savage",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://telegra.ph/file/880fbc3c4010707795329.jpg",
         "required": false
       },
   
@@ -31,21 +31,21 @@
       },
       "MENU": {
         "description": "choose 1, 2, 3",
-        "value": "1"
+        "value": "2"
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://telegra.ph/file/880fbc3c4010707795329.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "Dreaded_Savage"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Nairobi"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "254795118507"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -120,7 +120,7 @@
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
+        "value": "D R E A D E D",
         "required": false
       }  
   },
