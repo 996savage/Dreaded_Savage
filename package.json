@@ -1,19 +1,19 @@
 {
-   "name": "Queen_Anita-V2",
+   "name": "Draeaded_Savage",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by DeeCeeXxx.",
+   "description": "Multi device whatsapp bot by liljay savage.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "start": "pm2 start . --attach --name Queen_Anita-V2",
-      "stop": "pm2 stop Queen_Anita-V2",
-      "heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name Dreaded_Savage || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name Dreaded_Savage || node .",
+      "start": "pm2 start . --attach --name Dreaded_Savage",
+      "stop": "pm2 stop Dreaded_Savage",
+      "heroku-postbuild": "git clone https://github.com/996savage/Dreaded_Savage.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/996savage/Dreaded_Savage.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "David Cyril",
+   "author": "liljay savage",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -77,10 +77,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/DeeCeeXxx/Queen_Anita-V2.git"
+      "url": "git+https://github.com/996savage/Dreaded_Savage.git"
    },
    "bugs": {
-      "url": "https://github.com/DeeCeeXxx/Queen_Anita-V2/issues"
+      "url": "https://github.com/996savage/Dreaded_Savage/issues"
    },
-   "homepage": "https://github.com/DeeCeeXxx/Queen_Anita-V2#readme"
+   "homepage": "https://github.com/996savage/Dreaded_Savage#readme"
 }
