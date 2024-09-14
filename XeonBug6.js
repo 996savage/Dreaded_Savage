@@ -157,7 +157,7 @@ isForwarded: true,
 "body": `${ownername}`,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
-"thumbnail": fs.readFileSync(`./savageMedia/thumb.jpg`),
+"thumbnail": fs.readFileSync(`./xeonMedia/thumb.jpg`),
 "sourceUrl": `${link}`}}},
 { quoted: m})
 }
