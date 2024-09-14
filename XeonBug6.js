@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by liljay savage
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @lil_savage996
+//Instagram: liljay_savage
+//Telegram: t.me/liljaysavage
+//GitHub: @996savage
+//WhatsApp: +254795118507
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@lil_savage996
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -67,7 +67,7 @@ const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `Good Night ðŸŒŒ`
+var xeonytimewisher = `Good Night ðŸŒƒ'
  }
  if(time2 < "19:00:00"){
 var xeonytimewisher = `Good Evening ðŸŒƒ`
@@ -157,7 +157,7 @@ isForwarded: true,
 "body": `${ownername}`,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
-"thumbnail": fs.readFileSync(`./XeonMedia/thumb.jpg`),
+"thumbnail": fs.readFileSync(`./savageMedia/thumb.jpg`),
 "sourceUrl": `${link}`}}},
 { quoted: m})
 }
@@ -533,7 +533,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`24/7 Online Bot By Tech God Sir Bot Owner ${ownername} For more  Hacks Search On Youtube Tech God`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`24/7 Online Bot By lljay savage my craetor and Bot Owner ${ownername} For more  Hacks Search On Youtube lil_savage996`).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
@@ -1271,8 +1271,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `Liljay Savage`,
-                            body: `😂Its okay Not to be okay`,
+                            title: `DREADED SAVAGE`,
+                            body: `😂Its okay Not to be okay,Life sucks Bruv we all known that `,
                             thumbnailUrl: 'https://telegra.ph/file/880fbc3c4010707795329.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1287,11 +1287,11 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `Hello World`,
+                    text: `work hard bruv `,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `SCRIPT OF Dreded savage is on YouTube lil_savage996`,
+                            title: `SCRIPT OF Dreded savage is on Github; https://github.com/996savage/Dreaded_savage`,
                             body: `work hard bro😂💀`,
                             thumbnailUrl: 'https://telegra.ph/file/880fbc3c4010707795329.jpg',
                             sourceUrl: global.link,
@@ -1619,7 +1619,7 @@ let ceknye = await XeonBotInc.onWhatsApp(bnnd)
 if (ceknye.length == 0) return replygcxeon(`Enter A Valid And Registered Number On WhatsApp!!!`)
 owner.push(bnnd)
 fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
-replygcxeon(`Number ${bnnd} Has Become An Owner!!!`)
+replygcxeon(`Daamn Bro Number ${bnnd} Has Become An Owner!!!`)
 break
 case 'delowner':
                 if (!isCreator) return replygcxeon(mess.owner)
@@ -1853,7 +1853,7 @@ break
                 replygcxeon(`@${m.sender.split('@')[0]} Currently AFK\nWith reason : ${reason}`)
                 break
 case 'play':  case 'song': {
-if (!text) return replygcxeon(`Example : ${prefix + command} Tum Hi ho ringtone`)
+if (!text) return replygcxeon(`Example : ${prefix + command} Stay high by juice wrld`)
 const xeonplaymp3 = require('./lib/ytdl2')
 let yts = require("youtube-yts")
         let search = await yts(text)
@@ -2285,11 +2285,11 @@ break
             case 'alive':
             case 'bot':
             case 'allmenu':
-                let xeonmenuoh = `Hello Dear ${pushname}
+                let xeonmenuoh = `Yoh ssup ${pushname}
 ${xeonytimewisher}
-
-*Do not forget to subscribe*
-> _https://www.youtube.com/@lil_savage996
+> DREADED  SAVAGE BUG BOT
+*Do not forget to fork my repo*
+> _https://github.com/996savage/Dreaded_Savage
 
 *𝖆𝖓𝖉𝖗𝖔𝖎𝖉 𝖇𝖚𝖌 ⚠️📵*
 > 𝔵𝔞𝔫𝔡𝔯𝔬𝔦𝔡👾
@@ -2367,27 +2367,27 @@ ${xeonytimewisher}
 > 𝙚𝙢𝙤𝙟𝙞𝙢𝙘
 
 *𝖆𝖚𝖙𝖔 𝕭𝖌𝖒,𝕾𝖙𝖎𝖈𝖐𝖊𝖗,𝕻𝖎𝖈,𝐕𝐢𝐝𝐞𝐨 𝖗𝖊𝖕𝖑𝖞📢*
-> 𝔞𝔡𝔡𝔳𝔦𝔡𝔢𝔬𝔰
-> 𝔞𝔡𝔡𝔦𝔪𝔞𝔤𝔢𝔰
-> 𝔞𝔡𝔡𝔰𝔱𝔦𝔠𝔨𝔢𝔯
-> 𝔞𝔡𝔡𝔳𝔫
-> 𝔞𝔡𝔡𝔷𝔦𝔭
-> 𝔞𝔡𝔡𝔞𝔭𝔨
-> 𝔞𝔡𝔡𝔭𝔡𝔣
-> 𝔇𝔢𝔩𝔳𝔦𝔡𝔢𝔬
-> 𝔇𝔢𝔩𝔦𝔪𝔞𝔤𝔢
-> 𝔇𝔢𝔩𝔰𝔱𝔦𝔠𝔨𝔢𝔯
-> 𝔇𝔢𝔩𝔳𝔫
-> 𝔇𝔢𝔩𝔷𝔦𝔭
-> 𝔇𝔢𝔩𝔞𝔭𝔨
-> 𝔇𝔢𝔩𝔭𝔡𝔣
-> 𝔩𝔲𝔰𝔱𝔳𝔦𝔡𝔢𝔬
-> 𝔩𝔦𝔰𝔱𝔦𝔪𝔞𝔤𝔢
-> 𝔩𝔦𝔰𝔱𝔰𝔱𝔦𝔠𝔨𝔢𝔯
-> 𝔩𝔦𝔰𝔱𝔳𝔫
-> 𝔩𝔦𝔰𝔱𝙯𝔦𝔭
-> 𝔩𝔦𝔰𝔱𝔞𝔭𝔨
-> 𝔩𝔦𝔰𝔱𝔭𝔡𝔣
+| 𝔞𝔡𝔡𝔳𝔦𝔡𝔢𝔬𝔰
+| 𝔞𝔡𝔡𝔦𝔪𝔞𝔤𝔢𝔰
+| 𝔞𝔡𝔡𝔰𝔱𝔦𝔠𝔨𝔢𝔯
+| 𝔞𝔡𝔡𝔳𝔫
+| 𝔞𝔡𝔡𝔷𝔦𝔭
+| 𝔞𝔡𝔡𝔞𝔭𝔨
+| 𝔞𝔡𝔡𝔭𝔡𝔣
+| 𝔇𝔢𝔩𝔳𝔦𝔡𝔢𝔬
+| 𝔇𝔢𝔩𝔦𝔪𝔞𝔤𝔢
+| 𝔇𝔢𝔩𝔰𝔱𝔦𝔠𝔨𝔢𝔯
+| 𝔇𝔢𝔩𝔳𝔫
+| 𝔇𝔢𝔩𝔷𝔦𝔭
+| 𝔇𝔢𝔩𝔞𝔭𝔨
+| 𝔇𝔢𝔩𝔭𝔡𝔣
+| 𝔩𝔲𝔰𝔱𝔳𝔦𝔡𝔢𝔬
+| 𝔩𝔦𝔰𝔱𝔦𝔪𝔞𝔤𝔢
+| 𝔩𝔦𝔰𝔱𝔰𝔱𝔦𝔠𝔨𝔢𝔯
+| 𝔩𝔦𝔰𝔱𝔳𝔫
+| 𝔩𝔦𝔰𝔱𝙯𝔦𝔭
+| 𝔩𝔦𝔰𝔱𝔞𝔭𝔨
+| 𝔩𝔦𝔰𝔱𝔭𝔡𝔣
 
 *𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉 𝖒𝖊𝖓𝖚 🕷️*
 > 𝙿𝚕𝚊𝚢
@@ -2419,7 +2419,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/880fbc3c4010707795329.jp'',
+      thumbnailUrl: 'https://telegra.ph/file/880fbc3c4010707795329.jp',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
