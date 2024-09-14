@@ -1,13 +1,12 @@
-//base by Tech-God
+//base by liljay savage
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @lil_savage996
+//Instagram: liljay_savage
+//Telegram: t.me/liljaysavage
+//GitHub: @996savage
+//WhatsApp: +254795118507
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@lil_savage996
 
-require('./settings')
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
