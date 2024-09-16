@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254794570910"
+global.ownernomer = "254795118507"
 global.ownername = "Savage the lord of bots"
 global.ytname = "YT:lil_savage996 "
 global.socialm = "GitHub: 996savage"
 global.location = "Kenya, Nairobi, city"
 
-global.ownernumber = '254794570910'  //creator number
+global.ownernumber = '254795118507'  //creator number
 global.ownername = 'lord savage' //owner name
 global.botname = '𝕯𝖗𝖊𝖆𝖉𝖊𝖉-𝖘𝖆𝖛𝖆𝖌𝖊_𝖇𝖚𝖌-𝖇𝖔t' //name of the bot
 
@@ -60,9 +60,9 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only 🖕',
-    admin: 'This feature can be used by admin only you moron 😡',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature is not for broke guys like you💀it can be used by owner only',
+    admin: 'This feature can be used by admin only go be admin bruv',
+    botAdmin: 'WTF doug This feature can only be used when the bot is a group admin ',
+    owner: 'WTF bruh feature is not for broke guys like you💀it can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'system processing... ',    
