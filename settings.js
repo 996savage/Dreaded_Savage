@@ -11,14 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254794570910"
+global.ownernomer = "254795118507"
 global.ownername = "Savage the lord of bots"
 global.ytname = "YT:lil_savage996 "
 global.socialm = "GitHub: 996savage"
-global.location = "India, Rampur, city"
+global.location = "Kenya, Nairobi, city"
 
-global.ownernumber = '254794570910'  //creator number
-global.ownername = 'lord Dante' //owner name
+global.ownernumber = '254795118507  //creator number
+global.ownername = 'Liljay_savage' //owner name
 global.botname = '𝕯𝖗𝖊𝖆𝖉𝖊𝖉-𝖘𝖆𝖛𝖆𝖌𝖊_𝖇𝖚𝖌-𝖇𝖔t' //name of the bot
 
 //sticker details
