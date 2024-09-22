@@ -67,7 +67,7 @@ const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `Good Night ðŸŒƒ'
+var xeonytimewisher = `Good Night ðŸŒƒ`
  }
  if(time2 < "19:00:00"){
 var xeonytimewisher = `Good Evening ðŸŒƒ`
