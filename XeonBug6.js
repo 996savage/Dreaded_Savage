@@ -67,7 +67,7 @@ const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `Good Night ðŸŒƒ`
+var xeonytimewisher = `Good Night ðŸŒŒ`
  }
  if(time2 < "19:00:00"){
 var xeonytimewisher = `Good Evening ðŸŒƒ`
@@ -157,7 +157,7 @@ isForwarded: true,
 "body": `${ownername}`,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
-"thumbnail": fs.readFileSync(`./xeonMedia/thumb.jpg`),
+"thumbnail": fs.readFileSync(`./XeonMedia/thumb.jpg`),
 "sourceUrl": `${link}`}}},
 { quoted: m})
 }
@@ -533,7 +533,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`24/7 Online Bot By lljay savage my craetor and Bot Owner ${ownername} For more  Hacks Search On Youtube lil_savage996`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`24/7 Online Bot By Tech God Sir Bot Owner ${ownername} For more  Hacks Search On Youtube Tech God`).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
@@ -1271,8 +1271,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `DREADED SAVAGE`,
-                            body: `😂Its okay Not to be okay,Life sucks Bruv we all known that `,
+                            title: `Liljay Savage`,
+                            body: `😂Its okay Not to be okay`,
                             thumbnailUrl: 'https://telegra.ph/file/880fbc3c4010707795329.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1287,12 +1287,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `work hard bruv `,
+                    text: `Hello World`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `SCRIPT OF Dreded savage is on Github; https://github.com/996savage/Dreaded_savage`,
-                            body: `work hard bro😂💀`,
+                            title: `SCRIPT OF Dreded savage is on Github`,
+                            body: `work hard bro😂💀 https://github.com/996savage/Dreaeded_Savage`,
                             thumbnailUrl: 'https://telegra.ph/file/880fbc3c4010707795329.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1619,7 +1619,7 @@ let ceknye = await XeonBotInc.onWhatsApp(bnnd)
 if (ceknye.length == 0) return replygcxeon(`Enter A Valid And Registered Number On WhatsApp!!!`)
 owner.push(bnnd)
 fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
-replygcxeon(`Daamn Bro Number ${bnnd} Has Become An Owner!!!`)
+replygcxeon(`Number ${bnnd} Has Become An Owner!!!`)
 break
 case 'delowner':
                 if (!isCreator) return replygcxeon(mess.owner)
@@ -1853,7 +1853,7 @@ break
                 replygcxeon(`@${m.sender.split('@')[0]} Currently AFK\nWith reason : ${reason}`)
                 break
 case 'play':  case 'song': {
-if (!text) return replygcxeon(`Example : ${prefix + command} Stay high by juice wrld`)
+if (!text) return replygcxeon(`Example : ${prefix + command} Tum Hi ho ringtone`)
 const xeonplaymp3 = require('./lib/ytdl2')
 let yts = require("youtube-yts")
         let search = await yts(text)
@@ -2285,10 +2285,10 @@ break
             case 'alive':
             case 'bot':
             case 'allmenu':
-                let xeonmenuoh = `Yoh ssup ${pushname}
+                let xeonmenuoh = `Yoh Ssup ${pushname}
 ${xeonytimewisher}
-> DREADED  SAVAGE BUG BOT
-*Do not forget to fork my repo*
+DREADED SAVAGE BUG
+*Do not forget to fork and star my repo*
 > _https://github.com/996savage/Dreaded_Savage
 
 *𝖆𝖓𝖉𝖗𝖔𝖎𝖉 𝖇𝖚𝖌 ⚠️📵*
@@ -2344,7 +2344,7 @@ ${xeonytimewisher}
 
 *𝖒𝖆𝖎𝖓 𝖒𝖊𝖓𝖚👽*
 > 𝐦𝐞𝐧𝐮
-> 𝐛𝐮𝐲𝐩𝐫𝐞𝐦𝐢𝐮𝐦   _7466008456_
+> 𝐛𝐮𝐲𝐩𝐫𝐞𝐦𝐢𝐮𝐦   
 > 𝐫𝐮𝐧𝐭𝐢𝐦𝐞
 > 𝐬𝐜𝐫𝐢𝐩𝐭
 > 𝐝𝐨𝐧𝐚𝐭𝐞
@@ -2367,27 +2367,27 @@ ${xeonytimewisher}
 > 𝙚𝙢𝙤𝙟𝙞𝙢𝙘
 
 *𝖆𝖚𝖙𝖔 𝕭𝖌𝖒,𝕾𝖙𝖎𝖈𝖐𝖊𝖗,𝕻𝖎𝖈,𝐕𝐢𝐝𝐞𝐨 𝖗𝖊𝖕𝖑𝖞📢*
-| 𝔞𝔡𝔡𝔳𝔦𝔡𝔢𝔬𝔰
-| 𝔞𝔡𝔡𝔦𝔪𝔞𝔤𝔢𝔰
-| 𝔞𝔡𝔡𝔰𝔱𝔦𝔠𝔨𝔢𝔯
-| 𝔞𝔡𝔡𝔳𝔫
-| 𝔞𝔡𝔡𝔷𝔦𝔭
-| 𝔞𝔡𝔡𝔞𝔭𝔨
-| 𝔞𝔡𝔡𝔭𝔡𝔣
-| 𝔇𝔢𝔩𝔳𝔦𝔡𝔢𝔬
-| 𝔇𝔢𝔩𝔦𝔪𝔞𝔤𝔢
-| 𝔇𝔢𝔩𝔰𝔱𝔦𝔠𝔨𝔢𝔯
-| 𝔇𝔢𝔩𝔳𝔫
-| 𝔇𝔢𝔩𝔷𝔦𝔭
-| 𝔇𝔢𝔩𝔞𝔭𝔨
-| 𝔇𝔢𝔩𝔭𝔡𝔣
-| 𝔩𝔲𝔰𝔱𝔳𝔦𝔡𝔢𝔬
-| 𝔩𝔦𝔰𝔱𝔦𝔪𝔞𝔤𝔢
-| 𝔩𝔦𝔰𝔱𝔰𝔱𝔦𝔠𝔨𝔢𝔯
-| 𝔩𝔦𝔰𝔱𝔳𝔫
-| 𝔩𝔦𝔰𝔱𝙯𝔦𝔭
-| 𝔩𝔦𝔰𝔱𝔞𝔭𝔨
-| 𝔩𝔦𝔰𝔱𝔭𝔡𝔣
+> 𝔞𝔡𝔡𝔳𝔦𝔡𝔢𝔬𝔰
+> 𝔞𝔡𝔡𝔦𝔪𝔞𝔤𝔢𝔰
+> 𝔞𝔡𝔡𝔰𝔱𝔦𝔠𝔨𝔢𝔯
+> 𝔞𝔡𝔡𝔳𝔫
+> 𝔞𝔡𝔡𝔷𝔦𝔭
+> 𝔞𝔡𝔡𝔞𝔭𝔨
+> 𝔞𝔡𝔡𝔭𝔡𝔣
+> 𝔇𝔢𝔩𝔳𝔦𝔡𝔢𝔬
+> 𝔇𝔢𝔩𝔦𝔪𝔞𝔤𝔢
+> 𝔇𝔢𝔩𝔰𝔱𝔦𝔠𝔨𝔢𝔯
+> 𝔇𝔢𝔩𝔳𝔫
+> 𝔇𝔢𝔩𝔷𝔦𝔭
+> 𝔇𝔢𝔩𝔞𝔭𝔨
+> 𝔇𝔢𝔩𝔭𝔡𝔣
+> 𝔩𝔲𝔰𝔱𝔳𝔦𝔡𝔢𝔬
+> 𝔩𝔦𝔰𝔱𝔦𝔪𝔞𝔤𝔢
+> 𝔩𝔦𝔰𝔱𝔰𝔱𝔦𝔠𝔨𝔢𝔯
+> 𝔩𝔦𝔰𝔱𝔳𝔫
+> 𝔩𝔦𝔰𝔱𝙯𝔦𝔭
+> 𝔩𝔦𝔰𝔱𝔞𝔭𝔨
+> 𝔩𝔦𝔰𝔱𝔭𝔡𝔣
 
 *𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉 𝖒𝖊𝖓𝖚 🕷️*
 > 𝙿𝚕𝚊𝚢
